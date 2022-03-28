@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.1333" branch-rate="0" version="1.9" timestamp="1572588636" lines-covered="12" lines-valid="90" branches-covered="0" branches-valid="203">
+  <sources>
+    <source></source>
+  </sources>
+  <packages>
+    <package name="DotnetCoreWebProject" line-rate="0.1935" branch-rate="0" complexity="25">
+      <classes>
+        <class name="DotnetCoreWebProject.Program" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Program.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="CreateWebHostBuilder" signature="(System.String[])" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.SimpleClass" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\SimpleClass.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="Add" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1">
+              <lines>
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Sub" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1">
+              <lines>
+                <line number="18" hits="1" branch="False" />
+                <line number="19" hits="1" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="Multiply" signature="(System.Int32,System.Int32)" line-rate="1" branch-rate="1">
+              <lines>
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="26" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="19" hits="1" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="26" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Startup" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Startup.cs" line-rate="0" branch-rate="0" complexity="6">
+          <methods>
+            <method name="get_Configuration" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="22" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="ConfigureServices" signature="(Microsoft.Extensions.DependencyInjection.IServiceCollection)" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="8" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Configure" signature="(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="9" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="46" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="49" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="53" hits="0" branch="False" />
+                <line number="55" hits="0" branch="False" />
+                <line number="56" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.Extensions.Configuration.IConfiguration)" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="22" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="8" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="9" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="46" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="53" hits="0" branch="False" />
+            <line number="55" hits="0" branch="False" />
+            <line number="56" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Startup/&lt;&gt;c" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Startup.cs" line-rate="1" branch-rate="0" complexity="2">
+          <methods />
+          <lines />
+        </class>
+        <class name="DotnetCoreWebProject.Pages.AboutModel" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\About.cshtml.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Message" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="11" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="OnGet" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.ContactModel" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Contact.cshtml.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Message" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="11" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="OnGet" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.ErrorModel" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Error.cshtml.cs" line-rate="0" branch-rate="0" complexity="6">
+          <methods>
+            <method name="get_RequestId" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="14" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ShowRequestId" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="OnGet" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="True" condition-coverage="0% (0/4)">
+                  <conditions>
+                    <condition number="8" type="jump" coverage="0%" />
+                    <condition number="20" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="21" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="True" condition-coverage="0% (0/4)">
+              <conditions>
+                <condition number="8" type="jump" coverage="0%" />
+                <condition number="20" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="21" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.IndexModel" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Index.cshtml.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="OnGet" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.PrivacyModel" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Privacy.cshtml.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="OnGet" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="DotnetCoreWebProject.Views" line-rate="0" branch-rate="0" complexity="198">
+      <classes>
+        <class name="DotnetCoreWebProject.Pages.Pages_About/&lt;ExecuteAsync&gt;d__0" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\About.cshtml" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+                <line number="6" hits="0" branch="False" />
+                <line number="7" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+            <line number="6" hits="0" branch="False" />
+            <line number="7" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Pages_Contact/&lt;ExecuteAsync&gt;d__0" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Contact.cshtml" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+                <line number="6" hits="0" branch="False" />
+                <line number="7" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+            <line number="6" hits="0" branch="False" />
+            <line number="7" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Pages_Error/&lt;ExecuteAsync&gt;d__0" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Error.cshtml" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Pages_Index/&lt;ExecuteAsync&gt;d__14" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Index.cshtml" line-rate="0" branch-rate="0" complexity="24">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="4" hits="0" branch="True" condition-coverage="0% (0/24)">
+                  <conditions>
+                    <condition number="200" type="jump" coverage="0%" />
+                    <condition number="391" type="jump" coverage="0%" />
+                    <condition number="494" type="jump" coverage="0%" />
+                    <condition number="527" type="jump" coverage="0%" />
+                    <condition number="780" type="jump" coverage="0%" />
+                    <condition number="972" type="jump" coverage="0%" />
+                    <condition number="1079" type="jump" coverage="0%" />
+                    <condition number="1112" type="jump" coverage="0%" />
+                    <condition number="1365" type="jump" coverage="0%" />
+                    <condition number="1557" type="jump" coverage="0%" />
+                    <condition number="1664" type="jump" coverage="0%" />
+                    <condition number="1697" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="True" condition-coverage="0% (0/24)">
+              <conditions>
+                <condition number="200" type="jump" coverage="0%" />
+                <condition number="391" type="jump" coverage="0%" />
+                <condition number="494" type="jump" coverage="0%" />
+                <condition number="527" type="jump" coverage="0%" />
+                <condition number="780" type="jump" coverage="0%" />
+                <condition number="972" type="jump" coverage="0%" />
+                <condition number="1079" type="jump" coverage="0%" />
+                <condition number="1112" type="jump" coverage="0%" />
+                <condition number="1365" type="jump" coverage="0%" />
+                <condition number="1557" type="jump" coverage="0%" />
+                <condition number="1664" type="jump" coverage="0%" />
+                <condition number="1697" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Pages_Privacy/&lt;ExecuteAsync&gt;d__0" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Privacy.cshtml" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+                <line number="6" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+            <line number="6" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Pages__ViewStart/&lt;ExecuteAsync&gt;d__0" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\_ViewStart.cshtml" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1">
+              <lines>
+                <line number="2" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="2" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Shared.Pages_Shared__CookieConsentPartial/&lt;ExecuteAsync&gt;d__9" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Shared\_CookieConsentPartial.cshtml" line-rate="0" branch-rate="0" complexity="14">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="4" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="14" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="5" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="109" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="6" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="136" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="9" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="208" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="10" hits="0" branch="True" condition-coverage="0% (0/6)">
+                  <conditions>
+                    <condition number="507" type="jump" coverage="0%" />
+                    <condition number="612" type="jump" coverage="0%" />
+                    <condition number="645" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="28" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="14" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="5" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="109" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="6" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="136" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="9" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="208" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="10" hits="0" branch="True" condition-coverage="0% (0/6)">
+              <conditions>
+                <condition number="507" type="jump" coverage="0%" />
+                <condition number="612" type="jump" coverage="0%" />
+                <condition number="645" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="28" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/&lt;&lt;ExecuteAsync&gt;b__43_3&gt;d" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Shared\_Layout.cshtml" line-rate="0" branch-rate="0" complexity="21">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="16" hits="0" branch="True" condition-coverage="0% (0/21)">
+                  <conditions>
+                    <condition number="8" type="switch" coverage="0%" />
+                    <condition number="158" type="jump" coverage="0%" />
+                    <condition number="575" type="jump" coverage="0%" />
+                    <condition number="678" type="jump" coverage="0%" />
+                    <condition number="711" type="jump" coverage="0%" />
+                    <condition number="961" type="jump" coverage="0%" />
+                    <condition number="1280" type="jump" coverage="0%" />
+                    <condition number="1387" type="jump" coverage="0%" />
+                    <condition number="1420" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="16" hits="0" branch="True" condition-coverage="0% (0/21)">
+              <conditions>
+                <condition number="8" type="switch" coverage="0%" />
+                <condition number="158" type="jump" coverage="0%" />
+                <condition number="575" type="jump" coverage="0%" />
+                <condition number="678" type="jump" coverage="0%" />
+                <condition number="711" type="jump" coverage="0%" />
+                <condition number="961" type="jump" coverage="0%" />
+                <condition number="1280" type="jump" coverage="0%" />
+                <condition number="1387" type="jump" coverage="0%" />
+                <condition number="1420" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/&lt;&lt;ExecuteAsync&gt;b__43_0&gt;d" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Shared\_Layout.cshtml" line-rate="0" branch-rate="0" complexity="17">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="6" hits="0" branch="True" condition-coverage="0% (0/17)">
+                  <conditions>
+                    <condition number="8" type="switch" coverage="0%" />
+                    <condition number="434" type="jump" coverage="0%" />
+                    <condition number="537" type="jump" coverage="0%" />
+                    <condition number="570" type="jump" coverage="0%" />
+                    <condition number="988" type="jump" coverage="0%" />
+                    <condition number="1095" type="jump" coverage="0%" />
+                    <condition number="1128" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="True" condition-coverage="0% (0/17)">
+              <conditions>
+                <condition number="8" type="switch" coverage="0%" />
+                <condition number="434" type="jump" coverage="0%" />
+                <condition number="537" type="jump" coverage="0%" />
+                <condition number="570" type="jump" coverage="0%" />
+                <condition number="988" type="jump" coverage="0%" />
+                <condition number="1095" type="jump" coverage="0%" />
+                <condition number="1128" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/&lt;&lt;ExecuteAsync&gt;b__43_13&gt;d" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Shared\_Layout.cshtml" line-rate="0" branch-rate="0" complexity="31">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="54" hits="0" branch="True" condition-coverage="0% (0/31)">
+                  <conditions>
+                    <condition number="8" type="switch" coverage="0%" />
+                    <condition number="173" type="jump" coverage="0%" />
+                    <condition number="320" type="jump" coverage="0%" />
+                    <condition number="423" type="jump" coverage="0%" />
+                    <condition number="456" type="jump" coverage="0%" />
+                    <condition number="706" type="jump" coverage="0%" />
+                    <condition number="854" type="jump" coverage="0%" />
+                    <condition number="961" type="jump" coverage="0%" />
+                    <condition number="994" type="jump" coverage="0%" />
+                    <condition number="1244" type="jump" coverage="0%" />
+                    <condition number="1541" type="jump" coverage="0%" />
+                    <condition number="1648" type="jump" coverage="0%" />
+                    <condition number="1681" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="54" hits="0" branch="True" condition-coverage="0% (0/31)">
+              <conditions>
+                <condition number="8" type="switch" coverage="0%" />
+                <condition number="173" type="jump" coverage="0%" />
+                <condition number="320" type="jump" coverage="0%" />
+                <condition number="423" type="jump" coverage="0%" />
+                <condition number="456" type="jump" coverage="0%" />
+                <condition number="706" type="jump" coverage="0%" />
+                <condition number="854" type="jump" coverage="0%" />
+                <condition number="961" type="jump" coverage="0%" />
+                <condition number="994" type="jump" coverage="0%" />
+                <condition number="1244" type="jump" coverage="0%" />
+                <condition number="1541" type="jump" coverage="0%" />
+                <condition number="1648" type="jump" coverage="0%" />
+                <condition number="1681" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/&lt;&lt;ExecuteAsync&gt;b__43_14&gt;d" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Shared\_Layout.cshtml" line-rate="0" branch-rate="0" complexity="27">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="69" hits="0" branch="True" condition-coverage="0% (0/27)">
+                  <conditions>
+                    <condition number="8" type="switch" coverage="0%" />
+                    <condition number="493" type="jump" coverage="0%" />
+                    <condition number="596" type="jump" coverage="0%" />
+                    <condition number="629" type="jump" coverage="0%" />
+                    <condition number="1200" type="jump" coverage="0%" />
+                    <condition number="1307" type="jump" coverage="0%" />
+                    <condition number="1340" type="jump" coverage="0%" />
+                    <condition number="1590" type="jump" coverage="0%" />
+                    <condition number="1887" type="jump" coverage="0%" />
+                    <condition number="1994" type="jump" coverage="0%" />
+                    <condition number="2027" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="69" hits="0" branch="True" condition-coverage="0% (0/27)">
+              <conditions>
+                <condition number="8" type="switch" coverage="0%" />
+                <condition number="493" type="jump" coverage="0%" />
+                <condition number="596" type="jump" coverage="0%" />
+                <condition number="629" type="jump" coverage="0%" />
+                <condition number="1200" type="jump" coverage="0%" />
+                <condition number="1307" type="jump" coverage="0%" />
+                <condition number="1340" type="jump" coverage="0%" />
+                <condition number="1590" type="jump" coverage="0%" />
+                <condition number="1887" type="jump" coverage="0%" />
+                <condition number="1994" type="jump" coverage="0%" />
+                <condition number="2027" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+          </lines>
+        </class>
+        <class name="DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/&lt;&lt;ExecuteAsync&gt;b__43_1&gt;d" filename="D:\Api Testing\MicrosoftStack\Prac\DotnetCoreWebProject\DotnetCoreWebProject\Pages\Shared\_Layout.cshtml" line-rate="0" branch-rate="0" complexity="59">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0">
+              <lines>
+                <line number="44" hits="0" branch="True" condition-coverage="0% (0/59)">
+                  <conditions>
+                    <condition number="8" type="switch" coverage="0%" />
+                    <condition number="435" type="jump" coverage="0%" />
+                    <condition number="538" type="jump" coverage="0%" />
+                    <condition number="571" type="jump" coverage="0%" />
+                    <condition number="990" type="jump" coverage="0%" />
+                    <condition number="1097" type="jump" coverage="0%" />
+                    <condition number="1130" type="jump" coverage="0%" />
+                    <condition number="1546" type="jump" coverage="0%" />
+                    <condition number="1653" type="jump" coverage="0%" />
+                    <condition number="1686" type="jump" coverage="0%" />
+                    <condition number="2102" type="jump" coverage="0%" />
+                    <condition number="2209" type="jump" coverage="0%" />
+                    <condition number="2242" type="jump" coverage="0%" />
+                    <condition number="2492" type="jump" coverage="0%" />
+                    <condition number="2672" type="jump" coverage="0%" />
+                    <condition number="2779" type="jump" coverage="0%" />
+                    <condition number="2812" type="jump" coverage="0%" />
+                    <condition number="3336" type="jump" coverage="0%" />
+                    <condition number="3444" type="jump" coverage="0%" />
+                    <condition number="3477" type="jump" coverage="0%" />
+                    <condition number="3896" type="jump" coverage="0%" />
+                    <condition number="4004" type="jump" coverage="0%" />
+                    <condition number="4037" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="72" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="44" hits="0" branch="True" condition-coverage="0% (0/59)">
+              <conditions>
+                <condition number="8" type="switch" coverage="0%" />
+                <condition number="435" type="jump" coverage="0%" />
+                <condition number="538" type="jump" coverage="0%" />
+                <condition number="571" type="jump" coverage="0%" />
+                <condition number="990" type="jump" coverage="0%" />
+                <condition number="1097" type="jump" coverage="0%" />
+                <condition number="1130" type="jump" coverage="0%" />
+                <condition number="1546" type="jump" coverage="0%" />
+                <condition number="1653" type="jump" coverage="0%" />
+                <condition number="1686" type="jump" coverage="0%" />
+                <condition number="2102" type="jump" coverage="0%" />
+                <condition number="2209" type="jump" coverage="0%" />
+                <condition number="2242" type="jump" coverage="0%" />
+                <condition number="2492" type="jump" coverage="0%" />
+                <condition number="2672" type="jump" coverage="0%" />
+                <condition number="2779" type="jump" coverage="0%" />
+                <condition number="2812" type="jump" coverage="0%" />
+                <condition number="3336" type="jump" coverage="0%" />
+                <condition number="3444" type="jump" coverage="0%" />
+                <condition number="3477" type="jump" coverage="0%" />
+                <condition number="3896" type="jump" coverage="0%" />
+                <condition number="4004" type="jump" coverage="0%" />
+                <condition number="4037" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="72" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

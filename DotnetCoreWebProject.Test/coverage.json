@@ -1,0 +1,1959 @@
+{
+  "DotnetCoreWebProject.dll": {
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Program.cs": {
+      "DotnetCoreWebProject.Program": {
+        "System.Void DotnetCoreWebProject.Program::Main(System.String[])": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.AspNetCore.Hosting.IWebHostBuilder DotnetCoreWebProject.Program::CreateWebHostBuilder(System.String[])": {
+          "Lines": {
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\SimpleClass.cs": {
+      "DotnetCoreWebProject.SimpleClass": {
+        "System.Int32 DotnetCoreWebProject.SimpleClass::Add(System.Int32,System.Int32)": {
+          "Lines": {
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "15": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 DotnetCoreWebProject.SimpleClass::Sub(System.Int32,System.Int32)": {
+          "Lines": {
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": []
+        },
+        "System.Int32 DotnetCoreWebProject.SimpleClass::Multiply(System.Int32,System.Int32)": {
+          "Lines": {
+            "24": 1,
+            "25": 1,
+            "26": 1,
+            "27": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Startup.cs": {
+      "DotnetCoreWebProject.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration DotnetCoreWebProject.Startup::get_Configuration()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void DotnetCoreWebProject.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 27,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 8,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void DotnetCoreWebProject.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)": {
+          "Lines": {
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0
+          },
+          "Branches": [
+            {
+              "Line": 41,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 9,
+              "EndOffset": 22,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void DotnetCoreWebProject.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "DotnetCoreWebProject.Startup/<>c": {
+        "System.Void DotnetCoreWebProject.Startup/<>c::<ConfigureServices>b__4_0(Microsoft.AspNetCore.Builder.CookiePolicyOptions)": {
+          "Lines": {},
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 8,
+              "EndOffset": 33,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\About.cshtml.cs": {
+      "DotnetCoreWebProject.Pages.AboutModel": {
+        "System.String DotnetCoreWebProject.Pages.AboutModel::get_Message()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Void DotnetCoreWebProject.Pages.AboutModel::OnGet()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Contact.cshtml.cs": {
+      "DotnetCoreWebProject.Pages.ContactModel": {
+        "System.String DotnetCoreWebProject.Pages.ContactModel::get_Message()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Void DotnetCoreWebProject.Pages.ContactModel::OnGet()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Error.cshtml.cs": {
+      "DotnetCoreWebProject.Pages.ErrorModel": {
+        "System.String DotnetCoreWebProject.Pages.ErrorModel::get_RequestId()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean DotnetCoreWebProject.Pages.ErrorModel::get_ShowRequestId()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        },
+        "System.Void DotnetCoreWebProject.Pages.ErrorModel::OnGet()": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0
+          },
+          "Branches": [
+            {
+              "Line": 20,
+              "Offset": 8,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 8,
+              "EndOffset": 14,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 20,
+              "EndOffset": 22,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 20,
+              "EndOffset": 34,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Index.cshtml.cs": {
+      "DotnetCoreWebProject.Pages.IndexModel": {
+        "System.Void DotnetCoreWebProject.Pages.IndexModel::OnGet()": {
+          "Lines": {
+            "13": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Privacy.cshtml.cs": {
+      "DotnetCoreWebProject.Pages.PrivacyModel": {
+        "System.Void DotnetCoreWebProject.Pages.PrivacyModel::OnGet()": {
+          "Lines": {
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "DotnetCoreWebProject.Views.dll": {
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\About.cshtml": {
+      "DotnetCoreWebProject.Pages.Pages_About/<ExecuteAsync>d__0": {
+        "System.Void DotnetCoreWebProject.Pages.Pages_About/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Contact.cshtml": {
+      "DotnetCoreWebProject.Pages.Pages_Contact/<ExecuteAsync>d__0": {
+        "System.Void DotnetCoreWebProject.Pages.Pages_Contact/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "6": 0,
+            "7": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Error.cshtml": {
+      "DotnetCoreWebProject.Pages.Pages_Error/<ExecuteAsync>d__0": {
+        "System.Void DotnetCoreWebProject.Pages.Pages_Error/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Index.cshtml": {
+      "DotnetCoreWebProject.Pages.Pages_Index/<ExecuteAsync>d__14": {
+        "System.Void DotnetCoreWebProject.Pages.Pages_Index/<ExecuteAsync>d__14::MoveNext()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": [
+            {
+              "Line": 4,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 200,
+              "EndOffset": 225,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 391,
+              "EndOffset": 393,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 391,
+              "EndOffset": 460,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 494,
+              "EndOffset": 496,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 527,
+              "EndOffset": 529,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 527,
+              "EndOffset": 598,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 494,
+              "EndOffset": 607,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 780,
+              "EndOffset": 782,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 780,
+              "EndOffset": 805,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 972,
+              "EndOffset": 974,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 972,
+              "EndOffset": 1043,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1079,
+              "EndOffset": 1081,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1112,
+              "EndOffset": 1114,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1112,
+              "EndOffset": 1183,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1079,
+              "EndOffset": 1192,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1365,
+              "EndOffset": 1367,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1365,
+              "EndOffset": 1390,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1557,
+              "EndOffset": 1559,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1557,
+              "EndOffset": 1628,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1664,
+              "EndOffset": 1666,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1697,
+              "EndOffset": 1699,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1697,
+              "EndOffset": 1768,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 1664,
+              "EndOffset": 1777,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Privacy.cshtml": {
+      "DotnetCoreWebProject.Pages.Pages_Privacy/<ExecuteAsync>d__0": {
+        "System.Void DotnetCoreWebProject.Pages.Pages_Privacy/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\_ViewStart.cshtml": {
+      "DotnetCoreWebProject.Pages.Pages__ViewStart/<ExecuteAsync>d__0": {
+        "System.Void DotnetCoreWebProject.Pages.Pages__ViewStart/<ExecuteAsync>d__0::MoveNext()": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Shared\\_CookieConsentPartial.cshtml": {
+      "DotnetCoreWebProject.Pages.Shared.Pages_Shared__CookieConsentPartial/<ExecuteAsync>d__9": {
+        "System.Void DotnetCoreWebProject.Pages.Shared.Pages_Shared__CookieConsentPartial/<ExecuteAsync>d__9::MoveNext()": {
+          "Lines": {
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "9": 0,
+            "10": 0,
+            "28": 0,
+            "41": 0
+          },
+          "Branches": [
+            {
+              "Line": 4,
+              "Offset": 14,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 5,
+              "Offset": 109,
+              "EndOffset": 111,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 5,
+              "Offset": 109,
+              "EndOffset": 115,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 136,
+              "EndOffset": 138,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 136,
+              "EndOffset": 142,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 208,
+              "EndOffset": 213,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 507,
+              "EndOffset": 509,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 507,
+              "EndOffset": 576,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 612,
+              "EndOffset": 614,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 645,
+              "EndOffset": 647,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 4,
+              "Offset": 14,
+              "EndOffset": 687,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 645,
+              "EndOffset": 716,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 612,
+              "EndOffset": 725,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 9,
+              "Offset": 208,
+              "EndOffset": 944,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Files\\VisualStudioPram\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\Pages\\Shared\\_Layout.cshtml": {
+      "DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_3>d": {
+        "System.Void DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_3>d::MoveNext()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 158,
+              "EndOffset": 160,
+              "Path": 0,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 158,
+              "EndOffset": 183,
+              "Path": 1,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 575,
+              "EndOffset": 577,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 616,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 575,
+              "EndOffset": 644,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 678,
+              "EndOffset": 680,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 711,
+              "EndOffset": 713,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 753,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 711,
+              "EndOffset": 782,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 678,
+              "EndOffset": 791,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 961,
+              "EndOffset": 963,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 961,
+              "EndOffset": 986,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1280,
+              "EndOffset": 1282,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 1322,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1280,
+              "EndOffset": 1351,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1387,
+              "EndOffset": 1389,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1420,
+              "EndOffset": 1422,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 8,
+              "EndOffset": 1462,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1420,
+              "EndOffset": 1491,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 1387,
+              "EndOffset": 1500,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_0>d": {
+        "System.Void DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_0>d::MoveNext()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 434,
+              "EndOffset": 436,
+              "Path": 0,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 475,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 434,
+              "EndOffset": 503,
+              "Path": 1,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 537,
+              "EndOffset": 539,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 570,
+              "EndOffset": 572,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 612,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 570,
+              "EndOffset": 641,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 537,
+              "EndOffset": 650,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 988,
+              "EndOffset": 990,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 1030,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 988,
+              "EndOffset": 1059,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1095,
+              "EndOffset": 1097,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1128,
+              "EndOffset": 1130,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 8,
+              "EndOffset": 1170,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1128,
+              "EndOffset": 1199,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 6,
+              "Offset": 1095,
+              "EndOffset": 1208,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_13>d": {
+        "System.Void DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_13>d::MoveNext()": {
+          "Lines": {
+            "54": 0
+          },
+          "Branches": [
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 173,
+              "EndOffset": 175,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 173,
+              "EndOffset": 198,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 320,
+              "EndOffset": 322,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 361,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 320,
+              "EndOffset": 389,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 423,
+              "EndOffset": 425,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 456,
+              "EndOffset": 458,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 498,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 456,
+              "EndOffset": 527,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 423,
+              "EndOffset": 536,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 706,
+              "EndOffset": 708,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 706,
+              "EndOffset": 731,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 854,
+              "EndOffset": 856,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 896,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 854,
+              "EndOffset": 925,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 961,
+              "EndOffset": 963,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 994,
+              "EndOffset": 996,
+              "Path": 0,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 1036,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 994,
+              "EndOffset": 1065,
+              "Path": 1,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 961,
+              "EndOffset": 1074,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1244,
+              "EndOffset": 1246,
+              "Path": 0,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1244,
+              "EndOffset": 1269,
+              "Path": 1,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1541,
+              "EndOffset": 1543,
+              "Path": 0,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 1583,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1541,
+              "EndOffset": 1612,
+              "Path": 1,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1648,
+              "EndOffset": 1650,
+              "Path": 0,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1681,
+              "EndOffset": 1683,
+              "Path": 0,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 8,
+              "EndOffset": 1723,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1681,
+              "EndOffset": 1752,
+              "Path": 1,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 54,
+              "Offset": 1648,
+              "EndOffset": 1761,
+              "Path": 1,
+              "Ordinal": 28,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_14>d": {
+        "System.Void DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_14>d::MoveNext()": {
+          "Lines": {
+            "69": 0
+          },
+          "Branches": [
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 493,
+              "EndOffset": 495,
+              "Path": 0,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 534,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 493,
+              "EndOffset": 562,
+              "Path": 1,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 596,
+              "EndOffset": 598,
+              "Path": 0,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 629,
+              "EndOffset": 631,
+              "Path": 0,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 671,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 629,
+              "EndOffset": 700,
+              "Path": 1,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 596,
+              "EndOffset": 709,
+              "Path": 1,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1200,
+              "EndOffset": 1202,
+              "Path": 0,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 1242,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1200,
+              "EndOffset": 1271,
+              "Path": 1,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1307,
+              "EndOffset": 1309,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1340,
+              "EndOffset": 1342,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 1382,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1340,
+              "EndOffset": 1411,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1307,
+              "EndOffset": 1420,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1590,
+              "EndOffset": 1592,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1590,
+              "EndOffset": 1615,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1887,
+              "EndOffset": 1889,
+              "Path": 0,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 1929,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1887,
+              "EndOffset": 1958,
+              "Path": 1,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1994,
+              "EndOffset": 1996,
+              "Path": 0,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 2027,
+              "EndOffset": 2029,
+              "Path": 0,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 8,
+              "EndOffset": 2069,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 2027,
+              "EndOffset": 2098,
+              "Path": 1,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 1994,
+              "EndOffset": 2107,
+              "Path": 1,
+              "Ordinal": 24,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_1>d": {
+        "System.Void DotnetCoreWebProject.Pages.Shared.Pages_Shared__Layout/<<ExecuteAsync>b__43_1>d::MoveNext()": {
+          "Lines": {
+            "44": 0,
+            "72": 0
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 141,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 435,
+              "EndOffset": 437,
+              "Path": 0,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 476,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 435,
+              "EndOffset": 504,
+              "Path": 1,
+              "Ordinal": 16,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 538,
+              "EndOffset": 540,
+              "Path": 0,
+              "Ordinal": 17,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 571,
+              "EndOffset": 573,
+              "Path": 0,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 613,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 571,
+              "EndOffset": 642,
+              "Path": 1,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 538,
+              "EndOffset": 651,
+              "Path": 1,
+              "Ordinal": 18,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 990,
+              "EndOffset": 992,
+              "Path": 0,
+              "Ordinal": 21,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 1032,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 990,
+              "EndOffset": 1061,
+              "Path": 1,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1097,
+              "EndOffset": 1099,
+              "Path": 0,
+              "Ordinal": 23,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1130,
+              "EndOffset": 1132,
+              "Path": 0,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 1172,
+              "Path": 4,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1130,
+              "EndOffset": 1201,
+              "Path": 1,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1097,
+              "EndOffset": 1210,
+              "Path": 1,
+              "Ordinal": 24,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1546,
+              "EndOffset": 1548,
+              "Path": 0,
+              "Ordinal": 27,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 1588,
+              "Path": 5,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1546,
+              "EndOffset": 1617,
+              "Path": 1,
+              "Ordinal": 28,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1653,
+              "EndOffset": 1655,
+              "Path": 0,
+              "Ordinal": 29,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1686,
+              "EndOffset": 1688,
+              "Path": 0,
+              "Ordinal": 31,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 1728,
+              "Path": 6,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1686,
+              "EndOffset": 1757,
+              "Path": 1,
+              "Ordinal": 32,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 1653,
+              "EndOffset": 1766,
+              "Path": 1,
+              "Ordinal": 30,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2102,
+              "EndOffset": 2104,
+              "Path": 0,
+              "Ordinal": 33,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 2144,
+              "Path": 7,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2102,
+              "EndOffset": 2173,
+              "Path": 1,
+              "Ordinal": 34,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2209,
+              "EndOffset": 2211,
+              "Path": 0,
+              "Ordinal": 35,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2242,
+              "EndOffset": 2244,
+              "Path": 0,
+              "Ordinal": 37,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 2284,
+              "Path": 8,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2242,
+              "EndOffset": 2313,
+              "Path": 1,
+              "Ordinal": 38,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2209,
+              "EndOffset": 2322,
+              "Path": 1,
+              "Ordinal": 36,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2492,
+              "EndOffset": 2494,
+              "Path": 0,
+              "Ordinal": 39,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2492,
+              "EndOffset": 2517,
+              "Path": 1,
+              "Ordinal": 40,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2672,
+              "EndOffset": 2674,
+              "Path": 0,
+              "Ordinal": 41,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 2714,
+              "Path": 9,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2672,
+              "EndOffset": 2743,
+              "Path": 1,
+              "Ordinal": 42,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2779,
+              "EndOffset": 2781,
+              "Path": 0,
+              "Ordinal": 43,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2812,
+              "EndOffset": 2814,
+              "Path": 0,
+              "Ordinal": 45,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 2855,
+              "Path": 10,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2812,
+              "EndOffset": 2884,
+              "Path": 1,
+              "Ordinal": 46,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 2779,
+              "EndOffset": 2893,
+              "Path": 1,
+              "Ordinal": 44,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3339,
+              "EndOffset": 3341,
+              "Path": 0,
+              "Ordinal": 47,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 3382,
+              "Path": 11,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3339,
+              "EndOffset": 3411,
+              "Path": 1,
+              "Ordinal": 48,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3447,
+              "EndOffset": 3449,
+              "Path": 0,
+              "Ordinal": 49,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3480,
+              "EndOffset": 3482,
+              "Path": 0,
+              "Ordinal": 51,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 3523,
+              "Path": 12,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3480,
+              "EndOffset": 3552,
+              "Path": 1,
+              "Ordinal": 52,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3447,
+              "EndOffset": 3561,
+              "Path": 1,
+              "Ordinal": 50,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3899,
+              "EndOffset": 3901,
+              "Path": 0,
+              "Ordinal": 53,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 3942,
+              "Path": 13,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 3899,
+              "EndOffset": 3971,
+              "Path": 1,
+              "Ordinal": 54,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 4007,
+              "EndOffset": 4009,
+              "Path": 0,
+              "Ordinal": 55,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 4040,
+              "EndOffset": 4042,
+              "Path": 0,
+              "Ordinal": 57,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 8,
+              "EndOffset": 4083,
+              "Path": 14,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 4040,
+              "EndOffset": 4112,
+              "Path": 1,
+              "Ordinal": 58,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 4007,
+              "EndOffset": 4121,
+              "Path": 1,
+              "Ordinal": 56,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

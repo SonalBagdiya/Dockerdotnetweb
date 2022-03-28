@@ -1,0 +1,157 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject.NunitTest\\DotnetCoreWebProject.NunitTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject.NunitTest\\DotnetCoreWebProject.NunitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject.NunitTest\\DotnetCoreWebProject.NunitTest.csproj",
+        "projectName": "DotnetCoreWebProject.NunitTest",
+        "projectPath": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject.NunitTest\\DotnetCoreWebProject.NunitTest.csproj",
+        "packagesPath": "C:\\Users\\pramila\\.nuget\\packages\\",
+        "outputPath": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject.NunitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pramila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\DotnetCoreWebProject.csproj": {
+                "projectPath": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\DotnetCoreWebProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\DotnetCoreWebProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\DotnetCoreWebProject.csproj",
+        "projectName": "DotnetCoreWebProject",
+        "projectPath": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\DotnetCoreWebProject.csproj",
+        "packagesPath": "C:\\Users\\pramila\\.nuget\\packages\\",
+        "outputPath": "D:\\Api Testing\\MicrosoftStack\\Prac\\DotnetCoreWebProject\\DotnetCoreWebProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pramila\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
